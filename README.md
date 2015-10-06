@@ -1,4 +1,4 @@
-# Module3Project
+# Getting and cleaning data
 
 ## Files
 * README.md 
