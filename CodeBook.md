@@ -32,3 +32,30 @@ The set of variables that were estimated from these signals are:
 * mean(): Mean value
 * std(): Standard deviation
 
+
+## Variables
+
+ [1] "subject"                  "label"                    "tbodyaccmeanx"           
+ [4] "tbodyaccmeany"            "tbodyaccmeanz"            "tbodyaccstdx"            
+ [7] "tbodyaccstdy"             "tbodyaccstdz"             "tgravityaccmeanx"        
+[10] "tgravityaccmeany"         "tgravityaccmeanz"         "tgravityaccstdx"         
+[13] "tgravityaccstdy"          "tgravityaccstdz"          "tbodyaccjerkmeanx"       
+[16] "tbodyaccjerkmeany"        "tbodyaccjerkmeanz"        "tbodyaccjerkstdx"        
+[19] "tbodyaccjerkstdy"         "tbodyaccjerkstdz"         "tbodygyromeanx"          
+[22] "tbodygyromeany"           "tbodygyromeanz"           "tbodygyrostdx"           
+[25] "tbodygyrostdy"            "tbodygyrostdz"            "tbodygyrojerkmeanx"      
+[28] "tbodygyrojerkmeany"       "tbodygyrojerkmeanz"       "tbodygyrojerkstdx"       
+[31] "tbodygyrojerkstdy"        "tbodygyrojerkstdz"        "tbodyaccmagmean"         
+[34] "tbodyaccmagstd"           "tgravityaccmagmean"       "tgravityaccmagstd"       
+[37] "tbodyaccjerkmagmean"      "tbodyaccjerkmagstd"       "tbodygyromagmean"        
+[40] "tbodygyromagstd"          "tbodygyrojerkmagmean"     "tbodygyrojerkmagstd"     
+[43] "fbodyaccmeanx"            "fbodyaccmeany"            "fbodyaccmeanz"           
+[46] "fbodyaccstdx"             "fbodyaccstdy"             "fbodyaccstdz"            
+[49] "fbodyaccjerkmeanx"        "fbodyaccjerkmeany"        "fbodyaccjerkmeanz"       
+[52] "fbodyaccjerkstdx"         "fbodyaccjerkstdy"         "fbodyaccjerkstdz"        
+[55] "fbodygyromeanx"           "fbodygyromeany"           "fbodygyromeanz"          
+[58] "fbodygyrostdx"            "fbodygyrostdy"            "fbodygyrostdz"           
+[61] "fbodyaccmagmean"          "fbodyaccmagstd"           "fbodybodyaccjerkmagmean" 
+[64] "fbodybodyaccjerkmagstd"   "fbodybodygyromagmean"     "fbodybodygyromagstd"     
+[67] "fbodybodygyrojerkmagmean" "fbodybodygyrojerkmagstd" 
+
